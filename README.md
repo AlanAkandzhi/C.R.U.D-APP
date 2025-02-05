@@ -48,4 +48,4 @@ python backend/app.py
 - https://github.com/AlanAkandzhi/C.R.U.D-APP.git
 
 # Примерна снимка:
-![CRUD App Screenshot](screenshots/screenshot.png)
+![CRUD App Screenshot](Full_Project/screenshots/screenshot.png)
