@@ -46,3 +46,6 @@ python backend/app.py
 
 # Линк към репото:
 - https://github.com/AlanAkandzhi/C.R.U.D-APP.git
+
+# Примерна снимка:
+![CRUD App Screenshot](screenshots/screenshot.png)
